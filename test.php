@@ -10,4 +10,5 @@ echo "hello,world";
 echo "hello";
 //@lijiajun
 echo "hello,everyone!";
+echo "wei ge";
 ?>

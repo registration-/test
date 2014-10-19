@@ -8,4 +8,6 @@
 
 echo "hello,world";
 echo "hello";
+//@lijiajun
+echo "hello,everyone!";
 ?>

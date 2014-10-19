@@ -10,5 +10,9 @@ echo "hello,world";
 echo "hello";
 //@lijiajun
 echo "hello,everyone!";
-echo "pr is sb";
+echo "wei ge";
+echo "asd";
+echo "liupeng";
+echo "wangshihao ";
+echo "asd";
 ?>
